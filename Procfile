@@ -1,1 +1,1 @@
-web: gunicorn project.wsgi
+web: gunicorn dalal_project.wsgi
